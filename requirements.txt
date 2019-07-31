@@ -1,0 +1,10 @@
+DateTime==4.3
+Keras==2.2.4
+matplotlib==3.0.3
+numpy==1.16.2
+pandas==0.24.2
+requests==2.21.0
+sklearn==0.0
+tensorflow==1.13.1
+textblob==0.15.3
+tweepy==3.7.0
